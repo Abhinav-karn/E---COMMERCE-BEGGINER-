@@ -1,0 +1,14 @@
+.upi img{
+    width: 350px;
+    background-color: #d4d1d1;
+    border: 1px solid #d65858;
+    margin: 20px;
+    
+}
+.upi p{
+    align-items: center;
+}
+.container{
+    align-items: center;
+    object-position: center;
+}
